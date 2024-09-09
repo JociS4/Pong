@@ -1,5 +1,7 @@
 Jogo Criado no curso NONECLASS
 
+Para fazer o Download do Jogo: https://jocis4.itch.io/pong
+
 Créditos aos criadores das Sprites e Sons:
 
 Artes feitas pelo Oskar, analise do design do jogo feito pelo Crickkin e música e sons do jogo feitos pelo R3nsen.
